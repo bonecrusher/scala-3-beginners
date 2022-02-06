@@ -3,7 +3,7 @@ package com.rockthejvm.part1basics
 object Functions {
 
   def aFunction(a: String, b: Int): String = {
-    a + " " + b // functions always hav ONE expression
+    a + " " + b // functions always hav ONE expression (?)
   }
 
   val aFunctionInvocation = aFunction("Scala", 999999999)
